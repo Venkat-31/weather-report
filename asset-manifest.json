@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/weather-report/static/js/main.68f9225d.chunk.js",
+    "main.js.map": "/weather-report/static/js/main.68f9225d.chunk.js.map",
+    "runtime-main.js": "/weather-report/static/js/runtime-main.de908459.js",
+    "runtime-main.js.map": "/weather-report/static/js/runtime-main.de908459.js.map",
+    "static/js/2.a22ec8ad.chunk.js": "/weather-report/static/js/2.a22ec8ad.chunk.js",
+    "static/js/2.a22ec8ad.chunk.js.map": "/weather-report/static/js/2.a22ec8ad.chunk.js.map",
+    "index.html": "/weather-report/index.html",
+    "static/js/2.a22ec8ad.chunk.js.LICENSE.txt": "/weather-report/static/js/2.a22ec8ad.chunk.js.LICENSE.txt",
+    "static/media/clouds-2.21241496.jpeg": "/weather-report/static/media/clouds-2.21241496.jpeg",
+    "static/media/cloudy.752485c7.svg": "/weather-report/static/media/cloudy.752485c7.svg",
+    "static/media/haze.4d0143cb.svg": "/weather-report/static/media/haze.4d0143cb.svg",
+    "static/media/heavy-rain.4ffd66c3.svg": "/weather-report/static/media/heavy-rain.4ffd66c3.svg",
+    "static/media/partly-cloudy.25dffb0b.svg": "/weather-report/static/media/partly-cloudy.25dffb0b.svg",
+    "static/media/rain.21b297b7.svg": "/weather-report/static/media/rain.21b297b7.svg",
+    "static/media/sleet.98f965c2.svg": "/weather-report/static/media/sleet.98f965c2.svg",
+    "static/media/snow.0ff11d7c.svg": "/weather-report/static/media/snow.0ff11d7c.svg",
+    "static/media/sunny.f310ad2a.svg": "/weather-report/static/media/sunny.f310ad2a.svg",
+    "static/media/thunderstorm.1bc8a5d8.svg": "/weather-report/static/media/thunderstorm.1bc8a5d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de908459.js",
+    "static/js/2.a22ec8ad.chunk.js",
+    "static/js/main.68f9225d.chunk.js"
+  ]
+}
